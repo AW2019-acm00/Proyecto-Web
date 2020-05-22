@@ -45,7 +45,7 @@ h1, .nav-link {
   box-sizing: inherit;
   display: block;
   border: none;
-  width: 129px;
+  width: 149px;
   font-size: 34px;
   color: black;
   padding: 10px;
@@ -61,4 +61,63 @@ h1, .nav-link {
   background: none;
   border: none;
   cursor: zoom-in !important;
+}
+.playas{
+  font-family: "sweet purple";
+  margin: auto;
+  font-size: 16px;
+    padding-bottom: 20px;
+    background-color: rgba(255,255,255,1);
+    display: grid;
+    margin: 20px;
+}
+.playas h1{
+  color: #000;
+  font-family: "sweet purple";
+  font-size: 44px;
+  text-align: center;
+  margin: 0px;
+  margin-top: 20px;
+}
+.playas h2{
+  color: #636363;
+  font-family: "sweet purple";
+  font-size: 34px;
+  text-align: center;
+}
+.playas p{
+  font-family: "Arial";
+  font-size: 18px;
+  text-align: center;
+  margin: 0px;
+}
+.mapa{
+  margin: auto;
+  width: 95%;
+}
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+  font-family: arial;
+}
+.card h1 {
+  margin: 5px;
+}
+.card a {
+  border: none;
+  background-color: #000;
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card a:hover {
+  opacity: 0.7;
 }

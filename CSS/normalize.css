@@ -516,4 +516,12 @@ template {
     display: grid;
     grid-template-columns: auto auto auto auto;
   }
+  .reco{
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    margin: 20px auto;
+    width: 95%;
+  }
 }
